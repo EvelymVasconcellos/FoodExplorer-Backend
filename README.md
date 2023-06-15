@@ -31,7 +31,7 @@ ___
 Clone o projeto para o seu computador.
 
 ```bash
-$ git clone git@github.com:EvelymVasconcellos/FoodExplorer-FrontEnd.git
+$ git clone git@github.com:EvelymVasconcellos/FoodExplorer-Backend.git
 ```
 ___ 
 
